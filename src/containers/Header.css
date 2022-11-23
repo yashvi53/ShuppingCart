@@ -1,0 +1,18 @@
+.header-item{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 20px;
+}
+.nav-items{
+    margin: 6px 20px;
+}
+.nav-items a{
+    padding: 12px 20px;
+    text-decoration: none;
+    color: rgb(114, 109, 109);
+    font-size: 18px;
+    font-weight: 400;
+}
+.nav-items a:hover{
+    color: black;
+}

@@ -1,0 +1,27 @@
+
+.cards-col {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+.cards-link {
+  margin-left: 30px;
+  margin-top: 50px;
+  width: 250px;
+  height: 260px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  
+}
+.cards-link:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-img {
+  margin: 10px 50px;
+}
+.card-img img {
+  width: 120px;
+  height: 141px;
+}
+
